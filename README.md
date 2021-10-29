@@ -1,3 +1,4 @@
 # few-shot-learning
 
-1. 超链接：[文本](地址)
+# 相关论文
+1. CLIP：[文本](https://arxiv.org/abs/2103.00020)
