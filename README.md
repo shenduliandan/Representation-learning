@@ -10,4 +10,4 @@
 2. Open-vocabulary Object Detection via Vision and Language Knowledge Distillation [Paper](https://arxiv.org/abs/2104.13921) [Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 
 ## Caption
-1. CLIP for Video Caption: [Paper](https://arxiv.org/abs/2110.06615)
+1. CLIP for Video Caption [Paper](https://arxiv.org/abs/2110.06615)
